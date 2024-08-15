@@ -2,4 +2,4 @@
 - meu nome é Kaio Lopes ✨
 -  estudo no alura
 - uso este espaço para organização e compartilhamento dos meus projetos desenvolvidos
-- 😄 ![https://tenor.com/brtp9.gif]
+- 😄 ![](https://tenor.com/brtp9.gif)
