@@ -1,5 +1,15 @@
-- 👋 **bom dia boa tarde e boa noite seja bem vindo ao meu perfil**
-- meu nome é Kaio Lopes ✨
--  estudo no alura
-- uso este espaço para organização e compartilhamento dos meus projetos desenvolvidos
-- 😄 ![](https://tenor.com/brtp9.gif)
+- ### Boas vindas ao meu perfil 
+
+Meu nome é Kaio Lopes 
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+
+
+
+
+
+
+![](https://media.tenor.com/i711TDATPtUAAAAC/naruto.gif)
