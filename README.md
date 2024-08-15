@@ -1,4 +1,4 @@
-- 👋 bom dia boa tarde e boa noite seja bem vindo ao meu perfil
+- 👋 **bom dia boa tarde e boa noite seja bem vindo ao meu perfil**
 - meu nome é Kaio Lopes ✨
 -  estudo no alura
 - uso este espaço para organização e compartilhamento dos meus projetos desenvolvidos
